@@ -46,7 +46,7 @@ drive.mount('/content/drive')`
 **2.** Install Necessary Libraries (if not already installed):
 
   `!pip install findspark`
-
+  `!pip install pyspark`
 **3.** Load and Explore Data:
 
 - Data can be stored in your Google Drive and accessed using its path ( /content/drive/MyDrive/Home_Sales.csv ).
