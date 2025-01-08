@@ -107,4 +107,9 @@ drive.mount('/content/drive')`
     
 ## References
 
+ChatGPT and Xpert Learning Assistant were used for analysis reference and troubleshooting errors for this project assignment.
+
+- OpenAI. (January, 2025). ChatGPT (GPT-4) [Large language model]. https://chat.openai.com/ Xpert Learning Assistant was used for troubleshooting errors for this project assignment.
+
+- Xpert Learning Assistant. (2025). Retrieved from https://bootcampspot.instructure.com/
 
